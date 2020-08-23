@@ -1,1 +1,4 @@
 este es mi primer archivo a Git.
+agregando cambios
+para verlosen github
+siempre relacionados a la practica
